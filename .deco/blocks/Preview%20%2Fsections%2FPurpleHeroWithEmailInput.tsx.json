@@ -1,0 +1,19 @@
+{
+  "__resolveType": "site/sections/PurpleHeroWithEmailInput.tsx",
+  "title": "Assine a newsletter da Nina",
+  "subtitle": "É muito top!",
+  "backgroundColor": "#7337e1",
+  "emailPlaceholder": "Coloque seu email",
+  "subtitleColor": "#dca8a8",
+  "image": {
+    "__resolveType": "website/flags/multivariate/image.ts",
+    "variants": [
+      {
+        "rule": {
+          "__resolveType": "website/matchers/random.ts",
+          "traffic": 0.5
+        }
+      }
+    ]
+  }
+}
