@@ -30,4 +30,4 @@ export default defineApp(async (_req, ctx) => {
       <ctx.Component />
     </>
   );
-});
+})
